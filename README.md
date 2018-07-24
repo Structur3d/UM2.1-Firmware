@@ -1,3 +1,5 @@
+*Use .hex file above for direct upload to M2+ Electronics board from within Cura.
+
 Marlin 3D Printer Firmware
 ==========================
 
